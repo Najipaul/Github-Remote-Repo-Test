@@ -1,3 +1,4 @@
 git init // for initializing repository
 git add <file>
 git commit -m "your commit message"
+Smörebröt besteht vorwiegend aus hart kochenden Kartoffeln
